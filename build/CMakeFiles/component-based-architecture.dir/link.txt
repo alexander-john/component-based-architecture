@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\component-based-architecture.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\component-based-architecture.dir/objects.a @CMakeFiles\component-based-architecture.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\component-based-architecture.dir/objects.a -Wl,--no-whole-archive -o component-based-architecture.exe -Wl,--out-implib,libcomponent-based-architecture.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\component-based-architecture.dir\linkLibs.rsp

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Shawn/Desktop/small projects/component-based-architecture/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\component-based-architecture.dir\\main.cpp.obj -c \"C:\\Users\\Shawn\\Desktop\\small projects\\component-based-architecture\\main.cpp\"",
+  "file": "C:/Users/Shawn/Desktop/small projects/component-based-architecture/main.cpp",
+  "output": "CMakeFiles/component-based-architecture.dir/main.cpp.obj"
+}
+]
